@@ -1,0 +1,43 @@
+   BODY {font-family: Verdana, Arial, Helvetica, sans-serif; background-position: 50% 0%; background-attachment: fixed; background-repeat: no-repeat; font-size: 8pt}
+   DIV.heading {margin-top: 10pt; margin-bottom: 20pt; text-align: center}
+   H3.subheading {font-family: Verdana, Arial, Helvetica, sans-serif; color: rgb(50,84,201); text-align: center; margin-top: 0; margin-bottom: 0}
+   H4.subheading {font-family: Verdana, Arial, Helvetica, sans-serif; color: rgb(50,84,201); font-weight: bold}
+   H5.heading {font-family : Verdana, Arial, Helvetica, sans-serif; color : #eb6501; letter-spacing : 0.02em; text-align : center; margin-top : 0; margin-bottom : 0; font-size: 8pt}
+   H5.subheading {font-family: Verdana, Arial, Helvetica, sans-serif; color: rgb(50,84,201); font-weight: bold}
+   IMG.home {width: 46px; height: 25px; cursor: pointer; border-width: 0}
+   .d {font-family: Verdana, Arial, Helvetica, sans-serif; color: #0000FF; font-size: 12pt}
+   H4.error {font-family: Verdana, Arial, Helvetica, sans-serif; color: #FF0000; letter-spacing: 0.04em; font-weight: bold; margin-bottom: 0}
+   H4.errmsg {font-family: Verdana, Arial, Helvetica, sans-serif; color: #84C0FD; letter-spacing: 0.04em; font-weight: bold}
+   A:link, A:visited, A:active {font-family: Verdana, Arial, Helvetica, sans-serif; color: #0000FF; text-decoration: none}
+   A:hover {font-family: Verdana, Arial, Helvetica, sans-serif; color: #CC0099}
+   A.rss, A.rss:hover {color: #FFFFFF} 
+   A.latest {font-size: 8pt}
+   A.latest:hover {font-size: 8pt}
+   UL.index {font-family: Verdana, Arial, Helvetica, sans-serif; float: center; width: 100%; padding: 0; margin:0; list-style-type: none}
+   A.index:link, A.index:visited, A.index:active {font-family: Verdana, Arial, Helvetica, sans-serif; float: center; border-left: 1px solid red; border-right: 1px solid red; text-decoration: none; color: rgb(50,84,201); font-size: 8pt; font-weight: bold; padding: 0.2em 0.2em}
+   A.index:hover {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt; color: #EB6501; font-weight: bold; padding: 0.2em 0.2em}
+   LI.index {display: inline}
+   UL.main {font-family: Verdana, Arial, Helvetica, sans-serif; float: none; width: 100%; padding: 0; margin-left: 0; list-style-type: none}
+   A.main {font-family: Verdana, Arial, Helvetica, sans-serif; float: none; text-decoration: none; color: #0000FF; font-size: 9pt; font-weight: bold; padding: 0.2em 0.6em}
+   A.main:hover {font-family: Verdana, Arial, Helvetica, sans-serif; color: #EB6501; font-size: 9pt; font-weight: bold; padding: 0.2em 0.6em}
+   LI.main {display: block}
+   TABLE {border-collapse: collapse}
+   TABLE.withb TD {font-family: Verdana, Arial, Helvetica, sans-serif; border: 1px solid #84C0FD; font-size: 9pt}
+   TABLE.judgelist A {font-size: 9pt}
+
+#mybutton   {border-style: inset;
+        border-color: #ff6633;
+        background-color: #CC3300;
+        text-decoration: none;   
+        width: 80px;
+        text-align: center;}
+  
+  A.buttontext {color: white; 
+                text-decoration: none;   
+                font: bold 8pt Verdana;
+                cursor: hand;}
+
+  A.buttonover  {color: white;
+                text-decoration: none;
+                font: bold 8pt Verdana;
+                cursor: hand;}
